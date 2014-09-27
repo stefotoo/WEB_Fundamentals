@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(108, 147, 255);
+}
+
+hr {
+    width: 99%;
+    border-bottom: transparent;
+    color: #605e5c;
+}
+
+dt {
+    font-feature-settings: on;
+    font-style: italic;
+}
+
+span {
+    font-feature-settings: on;
+    font-weight: bold;
+}

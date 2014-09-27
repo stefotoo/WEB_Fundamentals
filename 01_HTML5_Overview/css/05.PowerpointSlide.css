@@ -1,0 +1,48 @@
+body {
+    font-family: calibri;
+    background: url(http://localhost:63342/01_HTML5_Overview/resources/background_with_logo.PNG) no-repeat;
+    width: 966px;
+    height: 545px;
+}
+
+h1 {
+    color: #F2BE5F;
+    font-size: 32px;
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 100%;
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 28px;
+    font-weight: 200;
+}
+
+ul {
+    list-style-type: square;
+    color: #F2BE5F;
+    font-size: 24px;
+    margin-left: 10px;
+}
+
+span {
+    color: #f2b254;
+}
+
+.innerDiv {
+    background-color: rgba(31, 30, 28, 0.6);
+    width: 87%;
+    color: #ffffff;
+    padding: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px solid #B6B09F;
+    margin-left: 20px;
+}
+
+#lastDiv {
+    margin-left: 20px;
+}
+
+
